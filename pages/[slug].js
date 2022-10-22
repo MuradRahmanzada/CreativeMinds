@@ -13,6 +13,7 @@ import {
   Timestamp,
   updateDoc,
 } from "firebase/firestore";
+import Image from "next/image";
 
 const Details = () => {
   const route = useRouter();
@@ -81,7 +82,7 @@ const Details = () => {
             {allMessages?.map((message) => (
               <div className="bg-white p-6 border-2" key={message.id}>
                 <div className="flex items-center gap-2 mb-4">
-                  <img src={message.avatar} className="w-10 rounded-full" />
+                  <Image src={message.avatar} width={40} height={40} alt="user-photo" className="rounded-full" />
                   <h1 className="font-medium">{message.username}</h1>
                 </div>
                 <div>
