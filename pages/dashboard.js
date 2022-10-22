@@ -18,7 +18,7 @@ import { AiFillEdit } from "react-icons/ai";
 // Components
 import Message from "../components/Message";
 
-const dashboard = () => {
+const Dashboard = () => {
   const [posts, setPosts] = useState([]);
   const [user, loading] = useAuthState(auth);
   const route = useRouter();
@@ -83,4 +83,4 @@ const dashboard = () => {
   );
 };
 
-export default dashboard;
+export default Dashboard;
