@@ -8,12 +8,15 @@ A CreativeMinds (to share your posts and see other people's posts) web app which
 
 
 
-### Tech Stack:
+### In this project I used:
+
+- React JS
 - Next JS
-- React Hooks
 - Tailwind CSS
-- Firebase Firestore (Database)
-- Google Authentication
+- Firebase Firestore ( for database) 
+- Firebase Auth ( for Google-Authentication) 
+- Responsive Design
+- Deploy the App Live on Vercel
 
 ```bash
 
