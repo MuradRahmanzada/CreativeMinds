@@ -4,7 +4,7 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-A CreativeMinds (to share your posts and see other people's posts) web app which is built with reactJS. You can sign in with your Google Account and send realtime posts. Click demo to try it by yourself!
+A CreativeMinds (to share your posts and see other people's posts) web app which is built with Next JS. You can sign in with your Google Account and send realtime posts. Click demo to try it by yourself!
 
 
 
