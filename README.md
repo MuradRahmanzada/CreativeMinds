@@ -1,7 +1,12 @@
 
+
 # Creative Minds
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+A CreativeMinds (to share your posts and see other people's posts) web app which is built with reactJS. You can sign in with your Google Account and send realtime posts. Click demo to try it by yourself!
+
+
 
 ### Tech Stack:
 - Next JS
@@ -16,7 +21,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
   cd /creative-minds
   npm install
   npm run dev
-  
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
