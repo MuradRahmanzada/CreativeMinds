@@ -1,4 +1,3 @@
-![CreativeMinds](https://user-images.githubusercontent.com/97960285/197409986-e6adadaa-da46-4eb8-8efe-4c8bc7634d1c.png)
 
 
 
